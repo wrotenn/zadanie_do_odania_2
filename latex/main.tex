@@ -1,0 +1,36 @@
+\documentclass[12pt,a4paper,oneside]{report}
+
+\usepackage{latexsym}
+\usepackage{polski}
+\usepackage[utf8x]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\title{Zadanie LaTeX}
+\author{Imie Nazwisko}
+\date{2025.11.18}
+
+\usepackage[a4paper, inner=3cm, outer=1cm, top=2cm, bottom=1.6cm]{geometry}
+
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{
+\fancyhead[L]{\leftmark}
+\fancyhead[R]{Autor: Imie nazwisko}
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+	Tekst zawiera streszczenie kariery Roberta Kubicy w F1 oraz w innych seriach wyścigowych. Pokazując jego osiągnięcia, za pomocą tekstów, list numerowanych i nienumerowanych, tabeli oraz ukazuje go w bolidzie w którym zdobył swoje jedyne zwycięstwo w F1.
+\end{abstract}
+
+\tableofcontents
+
+\include{rozdzial1}
+\include{rozdzial2}
+\include{rozdzial3}
+\include{rozdzial4}
+\include{rozdzial5}
+\include{rozdzial6}
+\end{document}
+
