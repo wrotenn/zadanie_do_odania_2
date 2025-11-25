@@ -1,0 +1,129 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{tabela}{report}{}{}
+      \field{labelalpha}{10}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Robert Kubica podiums STATS}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.statsf1.com/en/robert-kubica/podium.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.statsf1.com/en/robert-kubica/podium.aspx
+      \endverb
+    \endentry
+    \entry{powrotrobertakubicy}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=57cf91c09652eec83380c76f67730211}{%
+           family={Cieślicki},
+           familyi={C\bibinitperiod},
+           given={Mateusz},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{57cf91c09652eec83380c76f67730211}
+      \strng{fullhash}{57cf91c09652eec83380c76f67730211}
+      \strng{fullhashraw}{57cf91c09652eec83380c76f67730211}
+      \strng{bibnamehash}{57cf91c09652eec83380c76f67730211}
+      \strng{authorbibnamehash}{57cf91c09652eec83380c76f67730211}
+      \strng{authornamehash}{57cf91c09652eec83380c76f67730211}
+      \strng{authorfullhash}{57cf91c09652eec83380c76f67730211}
+      \strng{authorfullhashraw}{57cf91c09652eec83380c76f67730211}
+      \field{labelalpha}{Cie25}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{powrotroberta.pl}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb powrotroberta.pl
+      \endverb
+      \verb{url}
+      \verb powrotroberta.pl
+      \endverb
+    \endentry
+    \entry{lemans}{report}{}{}
+      \name{author}{1}{}{%
+        {{hash=e19366eea531fc28a54af600214456a5}{%
+           family={Eurosport},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{e19366eea531fc28a54af600214456a5}
+      \strng{fullhash}{e19366eea531fc28a54af600214456a5}
+      \strng{fullhashraw}{e19366eea531fc28a54af600214456a5}
+      \strng{bibnamehash}{e19366eea531fc28a54af600214456a5}
+      \strng{authorbibnamehash}{e19366eea531fc28a54af600214456a5}
+      \strng{authornamehash}{e19366eea531fc28a54af600214456a5}
+      \strng{authorfullhash}{e19366eea531fc28a54af600214456a5}
+      \strng{authorfullhashraw}{e19366eea531fc28a54af600214456a5}
+      \field{labelalpha}{Eur25}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Robert Kubica zabrał głos po zwycięstwie w wyścigu 24h LeMans}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://eurosport.tvn24.pl/wec/24-heures-du-mans/2025/robert-kubica-zabral-glos-po-zwyciestwie-w-wyscigu-24h-le-mans.-co-powiedzial-polski-kierowca_sto23192677/story.shtml
+      \endverb
+      \verb{url}
+      \verb https://eurosport.tvn24.pl/wec/24-heures-du-mans/2025/robert-kubica-zabral-glos-po-zwyciestwie-w-wyscigu-24h-le-mans.-co-powiedzial-polski-kierowca_sto23192677/story.shtml
+      \endverb
+    \endentry
+    \entry{wikipedia}{report}{}{}
+      \field{labelalpha}{25}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Robert Kubica, wikipedia wolna encyklopedia}
+      \field{urlday}{25}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb pl.wikipedia.org/wiki/Robert_Kubica
+      \endverb
+      \verb{url}
+      \verb pl.wikipedia.org/wiki/Robert_Kubica
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

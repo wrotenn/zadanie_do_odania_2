@@ -5,6 +5,15 @@
 \usepackage[utf8x]{inputenc}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage[backend=biber, style=alphabetic, sorting=ynt]{biblatex}
+\addbibresource{sample.bib}
+\nocite{wikipedia}
+\nocite{powrotrobertakubicy}
+
+\title{Bibliography management: \texttt{biblatex} package}
+\author{Imie nazwisko}
+\date{ }
+
 \title{Zadanie LaTeX}
 \author{Imie Nazwisko}
 \date{2025.11.18}
@@ -31,6 +40,7 @@
 \include{rozdzial3}
 \include{rozdzial4}
 \include{rozdzial5}
+\printbibliography
 \include{rozdzial6}
 \end{document}
 
